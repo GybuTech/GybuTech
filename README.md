@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/GybuTech/GybuTech/main/banner.png" width="100%">
 </p>
 
 # 👋 Hi there!
