@@ -1,14 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm Gabriel Mbugua
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Mbugua&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20%7C%20Laravel%20Developer&descAlignY=55"/>
 
-### Junior Software Developer | Laravel & PHP Developer | Full-Stack Web Developer
+# 👋 Hi there!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Laravel+Developer;PHP+Developer;JavaScript+Developer;Building+Business+Solutions;ERP+%26+POS+Systems;Always+Learning+New+Technologies" />
+### Building software that solves real business problems.
+
+<p>
+<a href="https://github.com/GybuTech">
+<img src="https://img.shields.io/github/followers/GybuTech?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/GybuTech?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:gabrielmbugua003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-mbugua-69147b290/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
