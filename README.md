@@ -1,31 +1,15 @@
 <div align="center">
 
-  <!-- TOP HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=250&section=header&text=GABRIEL%20MBUGUA&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Join%20me%20in%20solving%20real%20world%20problems%20through%20code&descAlignY=62&descScale=18" width="100%" alt="Gabriel Mbugua Header"/>
+  <!-- TOP HERO BANNER (THEME: GABRIEL MBUGUA - JUNIOR SOFTWARE DEVELOPER) -->
+  <img src="https://raw.githubusercontent.com/GybuTech/portfolio/main/assets/hero-banner.svg" width="100%" alt="Gabriel Mbugua - Junior Software Developer"/>
 
   <br/>
-
-  <!-- STATS BADGES BAR -->
-  <p align="center">
-    <a href="https://github.com/GybuTech">
-      <img src="https://img.shields.io/badge/EXPERIENCE-1%2B%20YEARS-7C3AED?style=for-the-badge&labelColor=334155" alt="Experience Badge"/>
-    </a>
-    <a href="https://github.com/GybuTech/portfolio">
-      <img src="https://img.shields.io/badge/PROJECTS-ERP%20%26%20POS%20SYSTEMS-22C55E?style=for-the-badge&labelColor=334155" alt="Projects Badge"/>
-    </a>
-    <a href="https://github.com/GybuTech">
-      <img src="https://img.shields.io/badge/FOCUS-BUSINESS%20AUTOMATION-2563EB?style=for-the-badge&labelColor=334155" alt="Focus Badge"/>
-    </a>
-    <a href="https://github.com/GybuTech">
-      <img src="https://img.shields.io/badge/BASED%20IN-NAIROBI%2C%20KENYA-F97316?style=for-the-badge&labelColor=334155" alt="Location Badge"/>
-    </a>
-  </p>
 
   <!-- INTRO TITLE & HEADING -->
   <h1>Hi There! 👋</h1>
 
   <p align="center">
-    I am <b>Gabriel Mbugua</b>, an impact and results-driven <b>Laravel & PHP Developer</b> and <b>Business Systems Engineer</b> based in Nairobi, Kenya. I specialize in building secure, scalable Enterprise Resource Planning (ERP) platforms, Point-of-Sale (POS) systems, and RESTful APIs that automate real-world SME operations.
+    I am <b>Gabriel Mbugua</b>, a passionate and results-driven <b>Junior Software Developer</b> based in <b>Nairobi, Kenya 🇰🇪</b> with <b>2+ years</b> of hands-on experience. I focus on crafting clean, efficient code and building software solutions that solve real business problems.
   </p>
 
   <br/>
@@ -85,6 +69,7 @@
 
 </div>
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -103,7 +88,7 @@
 
 ## 📫 Let's Connect & Collaborate!
 
-I'm always open to discussing new software development opportunities, freelance business automation projects, or tech collaborations.
+I'm always open to discussing new software development opportunities, junior developer roles, or tech collaborations.
 
 - 💼 **LinkedIn**: [Gabriel Mbugua](https://www.linkedin.com/in/gabriel-mbugua-69147b290/)
 - 📧 **Email**: [gabrielmbugugua003@gmail.com](mailto:gabrielmbugugua003@gmail.com)
@@ -113,5 +98,5 @@ I'm always open to discussing new software development opportunities, freelance 
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by Gabriel Mbugua (@GybuTech) • Engineered for Impact</sub>
+  <sub>Designed with ❤️ by Gabriel Mbugua (@GybuTech) • Building Software That Solves Real Problems</sub>
 </div>
