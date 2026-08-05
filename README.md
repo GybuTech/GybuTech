@@ -27,6 +27,9 @@
 
 </div>
 
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a Software Developer from **Kenya 🇰🇪** pursuing a **Bachelor of Science in Information Technology**.
@@ -40,8 +43,6 @@ I enjoy building software that solves real business problems through practical, 
 - Software Architecture
 - REST APIs
 - System Design
-
----
 
 # 💻 Tech Stack
 
