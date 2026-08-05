@@ -54,41 +54,27 @@ I enjoy building software that solves real business problems through practical, 
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏫 Uniform Shop ERP & POS System
+### 🏫 Uniform Shop ERP & POS
 
-A business management system for school uniform retailers.
+Laravel • PHP • MySQL
 
-### Features
-
-- Inventory Management
-- Point of Sale (POS)
-- Barcode Tracking
-- Sales Reporting
-- Role Based Access Control
-
-**Tech Used**
-
-Laravel • PHP • MySQL • Bootstrap
+Business management software designed for school uniform retailers with inventory, sales, customers and POS functionality.
 
 ---
 
-## 🏠 Kejani Hunting System
+### 🏠 Kejani Hunting System
 
-A house hunting platform connecting people with vacant rental houses.
+React • Express • PostgreSQL
 
-**Tech Used**
-
-React • Express.js • PostgreSQL • JavaScript
+A platform helping users discover vacant rental houses with a modern, user-friendly experience.
 
 ---
 
-## 🌐 Portfolio Website
+### 🌐 Portfolio Website
 
-A responsive portfolio showcasing my projects, skills and experience.
-
----
+A responsive portfolio showcasing my projects, technical skills, and software development journey.
 
 # 📈 GitHub Statistics
 
@@ -97,16 +83,6 @@ A responsive portfolio showcasing my projects, skills and experience.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=GybuTech&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GybuTech&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=GybuTech&theme=tokyonight"/>
 
 </p>
 
