@@ -36,20 +36,6 @@ I'm a Software Developer from **Kenya 🇰🇪** pursuing a **Bachelor of Scienc
 
 I enjoy building software that solves real business problems through practical, scalable solutions.
 
-### 🌱 Currently Learning
-
-- Python
-- Advanced Laravel
-- Software Architecture
-- REST APIs
-- System Design
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,express,html,css,bootstrap,tailwind,mysql,postgres,git,github,vscode,pycharm,postman,npm" />
-
 </p>
 ## 📊 GitHub Statistics
 
@@ -60,30 +46,6 @@ I enjoy building software that solves real business problems through practical, 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GybuTech&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
----
-
-## 🚀 Featured Projects
-
-### 🏫 Uniform Shop ERP & POS
-
-Laravel • PHP • MySQL
-
-Business management software designed for school uniform retailers with inventory, sales, customers and POS functionality.
-
----
-
-### 🏠 Kejani Hunting System
-
-React • Express • PostgreSQL
-
-A platform helping users discover vacant rental houses with a modern, user-friendly experience.
-
----
-
-### 🌐 Portfolio Website
-
-A responsive portfolio showcasing my projects, technical skills, and software development journey.
-
 ---
 
 # 📫 Connect With Me
