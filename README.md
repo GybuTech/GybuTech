@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Mbugua&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Junior%20Software%20Developer%20%7C%20Laravel%20Developer&descAlignY=55"/>
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
 # 👋 Hi there!
 
