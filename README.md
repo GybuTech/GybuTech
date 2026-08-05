@@ -51,7 +51,15 @@ I enjoy building software that solves real business problems through practical, 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,react,express,html,css,bootstrap,tailwind,mysql,postgres,git,github,vscode,pycharm,postman,npm" />
 
 </p>
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GybuTech&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GybuTech&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -75,16 +83,6 @@ A platform helping users discover vacant rental houses with a modern, user-frien
 ### 🌐 Portfolio Website
 
 A responsive portfolio showcasing my projects, technical skills, and software development journey.
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GybuTech&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GybuTech&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
