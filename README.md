@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- TOP HERO BANNER (THEME: GABRIEL MBUGUA - JUNIOR SOFTWARE DEVELOPER) -->
-  <img src="https://raw.githubusercontent.com/GybuTech/portfolio/main/assets/hero-banner.svg" width="100%" alt="Gabriel Mbugua - Junior Software Developer"/>
+  <!-- TOP HERO BANNER (LIVE CLOUD HOSTED BANNER - GUARANTEED TO LOAD INSTANTLY) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1329&height=280&section=header&text=GABRIEL%20MBUGUA&fontSize=48&fontAlignY=36&animation=fadeIn&fontColor=00f2fe&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20NAIROBI,%20KENYA%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descScale=18" width="100%" alt="Gabriel Mbugua - Junior Software Developer Header"/>
 
   <br/>
 
@@ -81,7 +81,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GybuTech&theme=dark&hide_border=true" alt="GitHub Streak" width="97%"/>
+  <img src="https://streak-stats.demolab.com/?user=GybuTech&theme=dark&hide_border=true" alt="GitHub Streak" width="97%"/>
 </div>
 
 ---
