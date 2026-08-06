@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- TOP HERO BANNER (LIVE CLOUD HOSTED BANNER - GUARANTEED TO LOAD INSTANTLY) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1329&height=280&section=header&text=GABRIEL%20MBUGUA&fontSize=48&fontAlignY=36&animation=fadeIn&fontColor=00f2fe&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20NAIROBI,%20KENYA%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descScale=18" width="100%" alt="Gabriel Mbugua - Junior Software Developer Header"/>
+  <!-- TOP HERO BANNER -->
+  <img src="./banner.png" width="100%" alt="Gabriel Mbugua - Junior Software Developer"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- INTRO TITLE & HEADING -->
   <h1>Hi There! 👋</h1>
@@ -67,21 +67,6 @@
     <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   </p>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GybuTech&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Gabriel's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GybuTech&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GybuTech&theme=dark&hide_border=true" alt="GitHub Streak" width="97%"/>
 </div>
 
 ---
