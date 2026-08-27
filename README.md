@@ -69,17 +69,6 @@
 
 </div>
 
----
-
-## 📫 Let's Connect & Collaborate!
-
-I'm always open to discussing new software development opportunities, junior developer roles, or tech collaborations.
-
--  **LinkedIn**: [Gabriel Mbugua](https://www.linkedin.com/in/gabriel-mbugua-69147b290/)
--  **Email**: [gabrielmbugugua003@gmail.com](mailto:gabrielmbugugua003@gmail.com)
--  **GitHub**: [@GybuTech](https://github.com/GybuTech)
--  **Location**: Nairobi, Kenya 🇰🇪
-
 <br/>
 
 <div align="center">
