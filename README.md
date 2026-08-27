@@ -6,7 +6,7 @@
   <br/><br/>
 
   <!-- INTRO TITLE & HEADING -->
-  <h1>Hi There! 👋</h1>
+  <h1>Hi There! </h1>
 
   <p align="center">
     I am <b>Gabriel Mbugua</b>, a passionate and results-driven <b>Junior Software Developer</b> based in <b>Nairobi, Kenya 🇰🇪</b> with <b>2+ years</b> of hands-on experience. I focus on crafting clean, efficient code and building software solutions that solve real business problems.
@@ -75,13 +75,13 @@
 
 I'm always open to discussing new software development opportunities, junior developer roles, or tech collaborations.
 
-- 💼 **LinkedIn**: [Gabriel Mbugua](https://www.linkedin.com/in/gabriel-mbugua-69147b290/)
-- 📧 **Email**: [gabrielmbugugua003@gmail.com](mailto:gabrielmbugugua003@gmail.com)
-- 🐙 **GitHub**: [@GybuTech](https://github.com/GybuTech)
-- 📍 **Location**: Nairobi, Kenya 🇰🇪
+-  **LinkedIn**: [Gabriel Mbugua](https://www.linkedin.com/in/gabriel-mbugua-69147b290/)
+-  **Email**: [gabrielmbugugua003@gmail.com](mailto:gabrielmbugugua003@gmail.com)
+-  **GitHub**: [@GybuTech](https://github.com/GybuTech)
+-  **Location**: Nairobi, Kenya 🇰🇪
 
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by Gabriel Mbugua (@GybuTech) • Building Software That Solves Real Problems</sub>
+  <sub>Designed with  by Gabriel Mbugua (@GybuTech) • Building Software That Solves Real Problems</sub>
 </div>
