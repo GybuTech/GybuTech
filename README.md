@@ -33,7 +33,7 @@
   <br/>
 
   <!-- TECH STACK SECTION -->
-  <h2>💻 My Tech Stack:</h2>
+  <h2> My Tech Stack:</h2>
 
   <p align="center">
     <!-- Backend & Database -->
